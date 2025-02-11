@@ -30,8 +30,7 @@ Une base commune vous a été fournie. À vous de décider si vous souhaitez int
 
 Il s'agit de concevoir une solution prenant en compte les éléments mentionnés ci-dessus et répondant au cahier des charges illustré par la figure ci-dessous (analogie avec Umtice).
 
-![Projet](un_portail_pour_les_gouverner_tous.png)
-
+![Projet](./un_portail_pour_les_gouverner_tous.png)
 ---
 
 ## Partie III – Un portail web pour tous les gouvernés (conception et architecture de système pour du ML)
